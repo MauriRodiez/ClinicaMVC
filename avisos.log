@@ -1,0 +1,3 @@
+[2024-03-0617:52:50] [ INFO ] [databaseConnection:50] Se conecto a la base de datos
+[2024-03-0619:33:07] [ INFO ] [databaseConnection:52] Se conecto a la base de datos
+[2024-03-0619:33:19] [ INFO ] [OdontologoDaoH2:103] Estamos buscando un odontologo por id
